@@ -50,9 +50,8 @@ return false;
 }
 else
 {
-    alert("Username and Password cannot be null")
+    alert("Username or Password is null")
 }
-
 
 }
 
